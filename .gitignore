@@ -20,3 +20,6 @@ build/
 
 #Proxy
 .gitconfig
+
+#Mac Files
+.DS_Store
